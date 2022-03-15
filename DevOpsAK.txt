@@ -2,3 +2,24 @@ Hello this is index file
 Hello world
 Testing
 I'm in DevOPs training
+
+
+
+
+git init
+
+git config --user.name "name"
+
+git config --user.email "email"
+
+git add . (after creating some files)
+
+git commit -m "comment"
+
+git remote add origin <<central git url>>
+
+git push -u orogin master (might ask user name and authontication)
+
+git diff  (tells you the difference between your last commit files and the changes you made in the file
+
+git status --> tell you the status of the file
